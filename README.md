@@ -2,8 +2,8 @@
 ### Tax Calculator done with PHP.
 
 # Functionality:
-- Input: Monetary Amount, Tax Percentage
-- Output: Tax Amount, Final Amount
+- Input: Temperature, From scale, To scale
+- Output: Converted Result
 
 ## Technologies:
 - PHP
